@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a web application to make managing student details easier for schools **Saplings**
 
-- 🌱 I’m currently learning **Sveltekit and Three.js**
+- 🌱 I’m currently learning **Sveltekit.
 
 - 👯 I’m looking to collaborate on **a hit product that requires assistnace with full-stack development**
 
