@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@keshavrathinavel/leetcodes-monotonic-stack-problems-and-how-to-solve-them-made-easy-1c73c2d6d437
+[Monotonic Stack Problems Made Easy](https://medium.com/@keshavrathinavel/leetcodes-monotonic-stack-problems-and-how-to-solve-them-made-easy-1c73c2d6d437)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
