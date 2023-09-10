@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **a product that requires assistance with full-stack development**
 
-- 📝 I regularly write articles on [https://medium.com/@keshavrathinavel](https://medium.com/@keshavrathinavel)
+- 📝 I regularly write articles on [Medium](https://medium.com/@keshavrathinavel).
 
 - 📫 How to reach me **keshavrathinavel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1c7qoGgcp92oHzizTFc-PyR3GPzK5ecMU](https://drive.google.com/drive/u/0/folders/1c7qoGgcp92oHzizTFc-PyR3GPzK5ecMU)
+- 📄 [Know about my experiences ](https://drive.google.com/drive/u/0/folders/1c7qoGgcp92oHzizTFc-PyR3GPzK5ecMU)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
