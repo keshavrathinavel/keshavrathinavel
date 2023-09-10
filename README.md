@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a web application to make managing student details easier for schools **Saplings**
 
-- 🌱 I’m currently learning **Sveltekit.
+- 🌱 I’m currently learning **Sveltekit**.
 
-- 👯 I’m looking to collaborate on **a hit product that requires assistnace with full-stack development**
+- 👯 I’m looking to collaborate on **a product that requires assistance with full-stack development**
 
 - 📝 I regularly write articles on [https://medium.com/@keshavrathinavel](https://medium.com/@keshavrathinavel)
 
