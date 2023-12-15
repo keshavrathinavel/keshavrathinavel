@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav Rathinavel</h1>
+<h1 align="center">Hi 👋 I'm Keshav</h1>
 <h3 align="center">I am an outgoing CS Engineering student from India, looking to expand my abilities in software development and AI. My interests lie in Full-Stack Software development, ML/AI and competitive programming. I also like to draw and cook.</h3>
 
 🔭 I’m currently working on a web application to make managing student details easier for schools **Saplings**
