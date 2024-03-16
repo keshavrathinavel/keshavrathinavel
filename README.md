@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Keshav</h1>
-<h3 align="center">I am an outgoing CS Engineering student from India, looking to expand my abilities in software development and AI. My interests lie in Full-Stack Software development, ML/AI and competitive programming. I also like to draw and cook.</h3>
+<h3 align="center">I am a Solution Consultant. My interests lie in Full-Stack Software development, ML/AI and competitive programming. I also like to draw and cook.</h3>
 
 📝 I regularly write articles on [Medium](https://medium.com/@keshavrathinavel).
 
